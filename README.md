@@ -1,2 +1,2 @@
 # QA
-study QA
+study QA by Vadim
