@@ -1,84 +1,84 @@
-HW_1. The first part
+HW+AF8-1. The first part
 Linux terminal (GitBash) commands
-1)	Посмотреть где я
-Ответ: pwd
-2)	Создать папку
-Ответ: mkdir QA_29_HW_1
+1)	+BB8EPgRBBDwEPgRCBEAENQRCBEw- +BDMENAQ1- +BE8-
++BB4EQgQyBDUEQg-: pwd
+2)	+BCEEPgQ3BDQEMARCBEw- +BD8EMAQ/BDoEQw-
++BB4EQgQyBDUEQg-: mkdir QA+AF8-29+AF8-HW+AF8-1
 
-3)	Зайти в папку
-Ответ: cd QA_29_HW_1/
+3)	+BBcEMAQ5BEIEOA- +BDI- +BD8EMAQ/BDoEQw-
++BB4EQgQyBDUEQg-: cd QA+AF8-29+AF8-HW+AF8-1/
 
-4)	Создать 3 папки
-Ответ: mkdir test1 test2 test3
-5)	Зайти в любоую папку
-Ответ: cd test1/
-6)	Создать 5 файлов (3 txt, 2 json)
-Ответ:
+4)	+BCEEPgQ3BDQEMARCBEw- 3 +BD8EMAQ/BDoEOA-
++BB4EQgQyBDUEQg-: mkdir test1 test2 test3
+5)	+BBcEMAQ5BEIEOA- +BDI- +BDsETgQxBD4EQwRO- +BD8EMAQ/BDoEQw-
++BB4EQgQyBDUEQg-: cd test1/
+6)	+BCEEPgQ3BDQEMARCBEw- 5 +BEQEMAQ5BDsEPgQy- (3 txt, 2 json)
++BB4EQgQyBDUEQg-:
 touch 1.txt
 touch 2.txt
 touch 3.txt
 touch 4.json
 touch 5.json
-7) Создать 3 папки
-Ответ: mkdir test4 test5 test6
-8. Вывести список содержимого папки
-Ответ: ls -la
-9) + Открыть любой txt файл
-Ответ:
-cat >> 1.txt (если требуется прочитать не редактируя, то cat 1.txt)
-10) + написать туда что-нибудь, любой текст.
-Ответ:
+7) +BCEEPgQ3BDQEMARCBEw- 3 +BD8EMAQ/BDoEOA-
++BB4EQgQyBDUEQg-: mkdir test4 test5 test6
+8. +BBIESwQyBDUEQQRCBDg- +BEEEPwQ4BEEEPgQ6- +BEEEPgQ0BDUEQAQ2BDgEPAQ+BDMEPg- +BD8EMAQ/BDoEOA-
++BB4EQgQyBDUEQg-: ls -la
+9) +- +BB4EQgQ6BEAESwRCBEw- +BDsETgQxBD4EOQ- txt +BEQEMAQ5BDs-
++BB4EQgQyBDUEQg-:
+cat +AD4APg- 1.txt (+BDUEQQQ7BDg- +BEIEQAQ1BDEEQwQ1BEIEQQRP- +BD8EQAQ+BEcEOARCBDAEQgRM- +BD0ENQ- +BEAENQQ0BDAEOgRCBDgEQARDBE8-, +BEIEPg- cat 1.txt)
+10) +- +BD0EMAQ/BDgEQQQwBEIETA- +BEIEQwQ0BDA- +BEcEQgQ+--+BD0EOAQxBEMENARM-, +BDsETgQxBD4EOQ- +BEIENQQ6BEEEQg-.
++BB4EQgQyBDUEQg-:
 Some text
 Enter
 
-11) + сохранить и выйти.
-Ответ:
-Ctrl+c
-12) Выйти из папки на уровень выше
-Ответ: cd ..
-—
-13) переместить любые 2 файла, которые вы создали, в любую другую папку.
-Ответ:
+11) +- +BEEEPgRFBEAEMAQ9BDgEQgRM- +BDg- +BDIESwQ5BEIEOA-.
++BB4EQgQyBDUEQg-:
+Ctrl+-c
+12) +BBIESwQ5BEIEOA- +BDgENw- +BD8EMAQ/BDoEOA- +BD0EMA- +BEMEQAQ+BDIENQQ9BEw- +BDIESwRIBDU-
++BB4EQgQyBDUEQg-: cd ..
++IBQ-
+13) +BD8ENQRABDUEPAQ1BEEEQgQ4BEIETA- +BDsETgQxBEsENQ- 2 +BEQEMAQ5BDsEMA-, +BDoEPgRCBD4EQARLBDU- +BDIESw- +BEEEPgQ3BDQEMAQ7BDg-, +BDI- +BDsETgQxBEMETg- +BDQEQARDBDMEQwRO- +BD8EMAQ/BDoEQw-.
++BB4EQgQyBDUEQg-:
 mv test1/1.txt test2/
 mv test1/2.txt test3/
-14) скопировать любые 2 файла, которые вы создали, в любую другую папку.
-Ответ:
+14) +BEEEOgQ+BD8EOARABD4EMgQwBEIETA- +BDsETgQxBEsENQ- 2 +BEQEMAQ5BDsEMA-, +BDoEPgRCBD4EQARLBDU- +BDIESw- +BEEEPgQ3BDQEMAQ7BDg-, +BDI- +BDsETgQxBEMETg- +BDQEQARDBDMEQwRO- +BD8EMAQ/BDoEQw-.
++BB4EQgQyBDUEQg-:
 cp test2/1.txt test1/
 cp test3/2.txt test1/
-15) Найти файл по имени
-Ответ:
+15) +BB0EMAQ5BEIEOA- +BEQEMAQ5BDs- +BD8EPg- +BDgEPAQ1BD0EOA-
++BB4EQgQyBDUEQg-:
 find . -name 1.txt
 
-16) просмотреть содержимое в реальном времени (команда grep) изучите как она работает.
-Ответ:
+16) +BD8EQAQ+BEEEPAQ+BEIEQAQ1BEIETA- +BEEEPgQ0BDUEQAQ2BDgEPAQ+BDU- +BDI- +BEAENQQwBDsETAQ9BD4EPA- +BDIEQAQ1BDwENQQ9BDg- (+BDoEPgQ8BDAEPQQ0BDA- grep) +BDgENwRDBEcEOARCBDU- +BDoEMAQ6- +BD4EPQQw- +BEAEMAQxBD4EQgQwBDUEQg-.
++BB4EQgQyBDUEQg-:
 tail -f test1/1.txt 
-ctrl+c
+ctrl+-c
 
-17) вывести несколько(3) первых строк из текстового файла
-Ответ:
+17) +BDIESwQyBDUEQQRCBDg- +BD0ENQRBBDoEPgQ7BEwEOgQ+-(3) +BD8ENQRABDIESwRF- +BEEEQgRABD4EOg- +BDgENw- +BEIENQQ6BEEEQgQ+BDIEPgQzBD4- +BEQEMAQ5BDsEMA-
++BB4EQgQyBDUEQg-:
 head -3 test1/1.txt
 
-18) вывести несколько(3) последних строк из текстового файла
-Ответ:
+18) +BDIESwQyBDUEQQRCBDg- +BD0ENQRBBDoEPgQ7BEwEOgQ+-(3) +BD8EPgRBBDsENQQ0BD0EOARF- +BEEEQgRABD4EOg- +BDgENw- +BEIENQQ6BEEEQgQ+BDIEPgQzBD4- +BEQEMAQ5BDsEMA-
++BB4EQgQyBDUEQg-:
 tail -3 test1/1.txt
 
-19) просмотреть содержимое длинного файла (команда less) изучите как она работает.
-Ответ:
+19) +BD8EQAQ+BEEEPAQ+BEIEQAQ1BEIETA- +BEEEPgQ0BDUEQAQ2BDgEPAQ+BDU- +BDQEOwQ4BD0EPQQ+BDMEPg- +BEQEMAQ5BDsEMA- (+BDoEPgQ8BDAEPQQ0BDA- less) +BDgENwRDBEcEOARCBDU- +BDoEMAQ6- +BD4EPQQw- +BEAEMAQxBD4EQgQwBDUEQg-.
++BB4EQgQyBDUEQg-:
 less test1/q1.txt
 
-20) вывести дату и время
-Ответ:
+20) +BDIESwQyBDUEQQRCBDg- +BDQEMARCBEM- +BDg- +BDIEQAQ1BDwETw-
++BB4EQgQyBDUEQg-:
 date
-=========
++AD0APQA9AD0APQA9AD0APQA9-
 
-Задание *
-1) Отправить http запрос на сервер.
++BBcEMAQ0BDAEPQQ4BDU- +ACo-
+1) +BB4EQgQ/BEAEMAQyBDgEQgRM- http +BDcEMAQ/BEAEPgRB- +BD0EMA- +BEEENQRABDIENQRA-.
 http://162.55.220.72:5005/terminal-hw-request
-Ответ:
-curl "http://162.55.220.72:5005/get_method?name=andyrzn&age=35"
-2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
-Ответ:
-cd QA_29_HW_1/
++BB4EQgQyBDUEQg-:
+curl +ACI-http://162.55.220.72:5005/get+AF8-method?name+AD0-andyrzn+ACY-age+AD0-35+ACI-
+2) +BB0EMAQ/BDgEQQQwBEIETA- +BEEEOgRABDgEPwRC- +BDoEPgRCBD4EQARLBDk- +BDIESwQ/BD4EOwQ9BDgEQg- +BDAEMgRCBD4EPAQwBEIEOARHBDUEQQQ6BDg- +BD8EQwQ9BDoEQgRL- 3, 4, 5, 6, 7, 8, 13
++BB4EQgQyBDUEQg-:
+cd QA+AF8-29+AF8-HW+AF8-1/
 mkdir test1 test2 test3
 cd test1/
 touch 1.txt
